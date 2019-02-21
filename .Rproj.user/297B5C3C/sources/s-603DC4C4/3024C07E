@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550752029682.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4280359048",
+    "id" : "3024C07E",
+    "lastKnownWriteTime" : 1550757975,
+    "last_content_update" : 1550757975622,
+    "path" : "D:/Training/20190218 IYKRA Data MBA Training/R Studio/Introduction to R.R",
+    "project_path" : "Introduction to R.R",
+    "properties" : {
+        "cursorPosition" : "116,0",
+        "scrollLine" : "86",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
